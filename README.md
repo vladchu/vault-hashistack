@@ -1,16 +1,16 @@
-# vault-hashistack
+# Vault-Hashistack
 Hashistack (Consul + Nomad + Vault)
 
 Repository for quickly installing Hashicorp cluster and starting to work
 
 # For fast start you need just use terraform:
 
-  terraform init
-  terraform apply
+  - terraform init
+  - terraform apply
 
 # For destroy lab
 
-  terraform destroy
+  - terraform destroy
 
 link for learning articles:
  en: https://medium.com/@devops.team_kyrrex.com/vault-work-from-hashicorp-in-the-hashistack-system-consul-nomad-vault-f0ba855dd9fd
